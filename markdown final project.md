@@ -1,4 +1,4 @@
-# Dovev-npl.github.io
+# Diwash.github.io
 ## <Diwash Bhandari> web exercise
 
 ## _Italics_ and **bold**
